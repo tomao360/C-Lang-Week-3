@@ -1,0 +1,9 @@
+﻿  Class-examples1-Random Numbers.c
+C:\Users\97252\source\repos\week3\week3\Class-examples1-Random Numbers.c(8,13): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\97252\source\repos\week3\week3\Class-examples1-Random Numbers.c(9,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Class-examples2-typedef.c
+C:\Users\97252\source\repos\week3\week3\Class-examples2-typedef.c(20,7): warning C4101: 'userInsertAddress': unreferenced local variable
+C:\Users\97252\source\repos\week3\week3\Class-examples2-typedef.c(19,11): warning C4101: 'userInsertName': unreferenced local variable
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\97252\source\repos\week3\x64\Debug\week3.exe : fatal error LNK1120: 1 unresolved externals
